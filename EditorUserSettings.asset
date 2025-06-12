@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 0153565751020a03580b0871412106444f16412e2e7f2532757e4d36b3b86c3c
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 015451535c05085f0b0c092411760f444116412f2e7f76692e2d1865e1b7673e
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 0203515557575e0a0c08587a48710d44434e4a2f7e2d7465757c4860b4b6356d
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5507045350030c5d55580f7340740844424e402f282d256175711937b4b1373d
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 2
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_VCScanLocalPackagesOnConnect: 1
+  m_ArtifactGarbageCollection: 1
+  m_CompressAssetsOnImport: 1
